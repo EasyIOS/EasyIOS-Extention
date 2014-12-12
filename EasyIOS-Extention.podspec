@@ -18,7 +18,6 @@ Pod::Spec.new do |s|
     sp.dependency 'TTTAttributedLabel'
     sp.dependency 'FLKAutoLayout'
     sp.dependency 'UICKeyChainStore'
-    sp.dependency 'GCDObjC'
     sp.dependency 'SHGestureRecognizerBlocks'
     sp.dependency 'IQKeyboardManager'
     sp.dependency 'RMUniversalAlert'
