@@ -8,7 +8,6 @@
 
 #import "IconFont.h"
 #import "RegExCategories.h"
-#import "UIView+FLKAutoLayout.h"
 #import "UICKeyChainStore.h"
 #import "SHGestureRecognizerBlocks.h"
 #import "RMUniversalAlert.h"

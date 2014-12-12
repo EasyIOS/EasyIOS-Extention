@@ -16,7 +16,6 @@ Pod::Spec.new do |s|
     sp.dependency 'FontIcon'
     sp.dependency 'RegExCategories'
     sp.dependency 'TTTAttributedLabel'
-    sp.dependency 'FLKAutoLayout'
     sp.dependency 'UICKeyChainStore'
     sp.dependency 'SHGestureRecognizerBlocks'
     sp.dependency 'IQKeyboardManager'
