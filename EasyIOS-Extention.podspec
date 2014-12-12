@@ -13,7 +13,6 @@ Pod::Spec.new do |s|
   s.subspec 'EasyExtention' do |sp|
     sp.source_files = '*.{h,m,mm}'
     sp.requires_arc = true
-    sp.dependency 'FontIcon'
     sp.dependency 'RegExCategories'
     sp.dependency 'TTTAttributedLabel'
     sp.dependency 'UICKeyChainStore'

@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 year zhuchao. All rights reserved.
 //
 
-#import "IconFont.h"
+
 #import "RegExCategories.h"
 #import "UICKeyChainStore.h"
 #import "SHGestureRecognizerBlocks.h"
