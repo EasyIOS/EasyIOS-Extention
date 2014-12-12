@@ -24,6 +24,5 @@ Pod::Spec.new do |s|
     sp.dependency 'RMUniversalAlert'
     sp.dependency 'AutoLayoutCells'
     sp.dependency 'XAspect'
-    sp.prefix_header_contents = '#import "Easy-Extention.h"'
   end
 end
