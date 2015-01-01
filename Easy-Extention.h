@@ -11,5 +11,4 @@
 #import "UICKeyChainStore.h"
 #import "SHGestureRecognizerBlocks.h"
 #import "RMUniversalAlert.h"
-#import "AutoLayoutCells.h"
 #import "TTTAttributedLabel.h"

@@ -19,7 +19,6 @@ Pod::Spec.new do |s|
     sp.dependency 'SHGestureRecognizerBlocks'
     sp.dependency 'IQKeyboardManager'
     sp.dependency 'RMUniversalAlert'
-    sp.dependency 'AutoLayoutCells'
     sp.dependency 'XAspect'
   end
 end
