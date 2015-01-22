@@ -9,6 +9,10 @@
 
 #import "RegExCategories.h"
 #import "UICKeyChainStore.h"
-#import "SHGestureRecognizerBlocks.h"
 #import "RMUniversalAlert.h"
 #import "TTTAttributedLabel.h"
+
+#import "BlocksKit.h"
+#import "BlocksKit+UIKit.h"
+#import "BlocksKit+MessageUI.h"
+

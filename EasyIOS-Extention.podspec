@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name                  = "EasyIOS-Extention"
-  s.version               = "1.0"
+  s.version               = "1.1"
   s.summary               = "EasyIOS-Extention"
   s.homepage              = "http://easyios.08dream.com"
   s.social_media_url      = "http://easyios.08dream.com"
   s.platform     = :ios,'6.0'
   s.license               = { :type => "MIT", :file => "LICENSE" }
   s.author                = { "zhuchao" => "zhuchao@iosx.me" }
-  s.source                = { :git => "https://github.com/zhuchaowe/EasyIOS-Extention.git",:tag => "1.0" }
+  s.source                = { :git => "https://github.com/zhuchaowe/EasyIOS-Extention.git",:tag => "1.1" }
   s.ios.deployment_target = "6.0"
   s.requires_arc          = true
   s.subspec 'EasyExtention' do |sp|
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     sp.dependency 'RegExCategories'
     sp.dependency 'TTTAttributedLabel'
     sp.dependency 'UICKeyChainStore'
-    sp.dependency 'SHGestureRecognizerBlocks'
+    sp.dependency 'BlocksKit'
     sp.dependency 'IQKeyboardManager'
     sp.dependency 'RMUniversalAlert'
     sp.dependency 'XAspect'
