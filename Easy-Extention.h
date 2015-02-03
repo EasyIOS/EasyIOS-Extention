@@ -11,8 +11,6 @@
 #import "UICKeyChainStore.h"
 #import "RMUniversalAlert.h"
 #import "TTTAttributedLabel.h"
+#import "UIGestureRecognizer+ReactiveCocoa.h"
 
-#import "BlocksKit.h"
-#import "BlocksKit+UIKit.h"
-#import "BlocksKit+MessageUI.h"
 
