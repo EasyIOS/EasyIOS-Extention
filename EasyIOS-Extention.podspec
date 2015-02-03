@@ -11,12 +11,11 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "6.0"
   s.requires_arc          = true
   s.subspec 'EasyExtention' do |sp|
-    sp.source_files = '*.{h,m,mm}','Category/**/*.{h,m,mm}'
+    sp.source_files = '*.{h,m,mm}'
     sp.requires_arc = true
     sp.dependency 'RegExCategories'
     sp.dependency 'TTTAttributedLabel'
     sp.dependency 'UICKeyChainStore'
-    sp.dependency 'UIGestureRecognizer+ReactiveCocoa'
     sp.dependency 'IQKeyboardManager'
     sp.dependency 'RMUniversalAlert'
     sp.dependency 'XAspect'
